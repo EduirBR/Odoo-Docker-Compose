@@ -33,4 +33,4 @@ example: `http://localhost:8099/web?debug=1`
 
 ![img exmple from odoo web](AssetsMd/host.png)
 
-have fun developping
+have fun development
